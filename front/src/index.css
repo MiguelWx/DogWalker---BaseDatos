@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; background:#f7f7f7; margin:0; padding:20px; }
+.container { max-width:1000px; margin:0 auto; }
+.card { background:white; padding:16px; margin-bottom:16px; border-radius:8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);}
+.form input { display:block; margin:8px 0; padding:8px; width:100%; box-sizing:border-box; }
+.form button { padding:8px 12px; }
+.msg { margin-top:8px; color:green; }
+.error { color:red; margin-top:8px; }
+.table { width:100%; border-collapse: collapse; margin-top:8px; }
+.table th, .table td { border:1px solid #ddd; padding:6px; text-align:left; }
